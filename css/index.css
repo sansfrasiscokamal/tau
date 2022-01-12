@@ -1,0 +1,26 @@
+.header{
+  background-color: #eaeaea;
+  height: 350px;
+  margin-top:50px;
+}
+img.profil{
+  margin-top: 20px;
+  border-radius: 100%;
+  border: 5px solid #333;
+  height: 200px;
+  width: 200px;
+}
+.portofolio{
+  background-color: #eaeaea;
+  min-height: 600px;
+}
+.contact{
+  min-height: 600px;
+}
+.footer{
+  background-color: #000000;
+  color: white;
+  height:50px;
+  margin-bottom:0;
+  padding-top:10px;
+}
